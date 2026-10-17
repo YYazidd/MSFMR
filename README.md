@@ -5,9 +5,7 @@ Dataset construction documentation and source links for a face unmasking approac
 
 ## Overview 
 
-This repository provides documentation and source references for a face unmasking approach using publicly available face datasets. It describes the dataset construction process used in the paper: 
-
-> "A Single-Stage Multi-Scale Network for Face Mask Removal"
+This repository provides documentation and source references for a face unmasking approach using publicly available face datasets.
 
 The goal is to enable reproducibility of the dataset creation process without redistributing any original images. 
 
